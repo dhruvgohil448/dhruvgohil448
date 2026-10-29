@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hey, I am Dhruv!</h1>
-<h2 align="center">Developer</h2>
+<h2 align="center">Mobile App Developer (iOS &amp; Android) | Building scalable production apps</h2>
 
 <h2>💬 Want To Contact Me?</h2>
 
