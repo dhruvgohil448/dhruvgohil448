@@ -19,10 +19,10 @@ Open for freelance iOS work, full-time roles, and tech collaborations.
 
 <p>
   <a href="https://dhruv-gohil-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+    <img src="assets/portfolio.svg" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/dhruv-gohil-732028257">
-    <img src="https://img.shields.io/badge/-Dhruv_Gohil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="assets/linkedin.svg" alt="LinkedIn">
   </a>
   <a href="mailto:dhruvgohil448@gmail.com">
     <img src="https://img.shields.io/badge/-dhruvgohil448%40gmail.com-white?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email">
@@ -78,30 +78,7 @@ MVVM, MVP, and Clean Architecture. REST API design, data synchronization, mobile
 - **[ERP-Based Student Management System](https://github.com/dhruvgohil448/ERP-based-Student-Management-System-)** — HTML, CSS, JavaScript, MySQL. Role-based ERP for 1,000+ users covering attendance, notices, and fee payments. Automated workflows cut manual workload by 40%, and query work improved performance by 35%.
 - **[ReadBetter](https://github.com/dhruvgohil448/ReadBetter---Where-Words-Feel-Friendly)** — iOS, SwiftUI, VisionKit, speech recognition. Swift Student Challenge app. Fully offline, dyslexia-friendly reading with accessible reading modes and focus tools.
 
-## Education
-
-- **Bachelor of Computer Engineering** — Rajiv Gandhi Institute of Technology, Andheri (West), Mumbai. 2022 – 2027.
-- **Higher Secondary Certificate** — Nirmala Memorial Foundation College of Science, Kandivali (East). Science stream. 2020 – 2022.
-- **Secondary School Certificate** — St. Francis D'Assisi High School, Borivali (West). 2020.
-
-## Certifications and achievements
-
-- Winner — Startup Battle (AI–IoT sector), among 100+ teams
-- Winner — Hackathon Recursion 7.0, among 1,000+ teams
-- Blockchain for Enterprise (Basics)
-- IoT Edge Computing & Analytics
-- Google Cloud Launchpad
-
-## Also
-
-- **Languages:** English, Hindi, Marathi, Gujarati, French
-- **Leadership:** CESS — Head of Event Management and Technical Secretary (2023–2025). E-Cell — Head of Corporate Relations (2023–2024). Swift Mumbai Community — active member and volunteer.
-
 ## My Statistics
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dhruvgohil448/dhruvgohil448/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake">
-</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dhruvgohil448&theme=darcula&hide_border=true&background=00000000" alt="GitHub streak">
