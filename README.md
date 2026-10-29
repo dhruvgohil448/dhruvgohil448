@@ -3,17 +3,7 @@
 </p>
 
 <h1 align="center">Hey, I am Dhruv!</h1>
-<h2 align="center">iOS Developer | Architecting Scalable Mobile Apps</h2>
-
-<p align="center">
-  Software Engineer — Mobile (iOS) &amp; Cross-Platform<br>
-  SwiftUI • UIKit • MVVM • 20+ production apps<br>
-  Mumbai, Maharashtra, India
-</p>
-
-Software development engineer with 2+ years of experience designing and shipping 20+ production applications across enterprise, consumer, and fintech. I focus on native iOS (Swift, SwiftUI, UIKit, Core Data), with cross-platform work in Kotlin and React Native. I own features end to end, from REST APIs and databases through performance tuning and App Store release.
-
-Open for freelance iOS work, full-time roles, and tech collaborations.
+<h2 align="center">Developer</h2>
 
 <h2>💬 Want To Contact Me?</h2>
 
